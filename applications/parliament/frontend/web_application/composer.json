@@ -1,0 +1,19 @@
+{
+    "name": "dexmac/web_application",
+    "description": "Parliament",
+    "require": {
+        "php": "^7.2",
+        "stichoza/google-translate-php": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "TuoNamespace\\": "src/"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "7.2.0"
+        }
+    }
+    
+}

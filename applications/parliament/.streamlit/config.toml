@@ -1,0 +1,17 @@
+[theme]
+base="dark"
+primaryColor="#ffffff"
+backgroundColor="#343640"
+textColor="#e2dfdf"
+font="serif"
+
+[server]
+headless=true
+port = 8502
+sslCertFile = './certs/cert.pem'
+sslKeyFile = './certs/key.pem'
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 8502
+

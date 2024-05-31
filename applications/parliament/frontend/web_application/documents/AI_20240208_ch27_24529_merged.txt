@@ -1,0 +1,225 @@
+Title: Copyright protection of artificial intelligence - Hearing - Daniele Nardi, Sapienza University of Rome - Federico Bomba, Sineglossa ETS - resolution 7-00185
+Content: The Culture Commission, as part of the discussion of the resolution on initiatives to guarantee the protection of copyright in the context of the use of artificial intelligence technologies, carries out the hearings of Daniele Nardi, full professor at the University of Rome “La Sapienza” and director of the National Laboratory of Artificial Intelligence and Intelligent Systems of the National Interuniversity Consortium for IT, and of Federico Bomba, president of Sineglossa ETS.
+Dates: Thursday 08 February 2024 at 1.30 pm
+Time windows:
+##[0 - 20000]:
+Description:
+The scene features a group of women sitting in a conference room, with one woman sitting at the head of the table. She wears a black dress and appears to be a judge or lawyer. The other women are sitting around the table, engaged in a discussion or meeting.
+
+There are several objects on the table, including a laptop, a cell phone and some books. The laptop is open and the cell phone is placed nearby. Books are spread out on the table, indicating that the women may be reviewing some documents or materials related to their discussion.
+
+In the background there is a flag hanging on the wall, which adds a decorative touch to the room. The overall atmosphere of the scene suggests a formal or professional setting, in which women work together to address an important issue.
+
+Transcription:
+we hear neither audio nor audio we don't hear audio nor do we see it on video I know if we have a finger
+
+##[20000 - 40000]:
+Description:
+The image features a blue background with the words "Camera de Deputati" written in white letters. The words are arranged in a circular pattern, creating a visually appealing design. The overall composition of the image is elegant and sophisticated, with the blue and white color scheme adding a touch of elegance to the scene.
+
+Transcription:
+Google Web Speech API could not understand audio
+
+##[40000 - 60000]:
+Description:
+The image depicts a courtroom scene with two women sitting at a long wooden table, each with a laptop. They look like lawyers or court officials, as they are busy with their work. The table is surrounded by several chairs, some of which are empty.
+
+Multiple bottles are placed on the table, possibly containing water or other drinks for people. A TV is mounted on the wall behind the women and likely displays information or evidence relevant to the case.
+
+Two other people are present in the background, perhaps observing the proceedings or waiting their turn to make their case. The overall atmosphere of the scene suggests a professional and formal environment.
+
+Transcription:
+one minute Yes we are waiting for it let's write that we are waiting for the last audition
+
+##[60000 - 80000]:
+Description:
+The image features a close-up of a computer screen with a black background. On the screen there is a white square with the letter "F" written in black. The letter "F" is positioned in the center of the square, taking up a significant portion of the space. The overall composition of the image is simple and direct, with the focus on the letter "F" and the black background.
+
+Transcription:
+trial
+
+##[80000 - 100000]:
+Description:
+The scene is set in a conference room where two women are sitting at a long table working on their laptops. They appear to be engaged in a discussion or collaborating on a project. The room is furnished with multiple chairs, some of which are placed around the table, others are placed around the room.
+
+There are also several books scattered around the room, possibly containing reference materials or documents related to their work. A TV is mounted on the wall and you can see a cup sitting on the table. The atmosphere suggests a professional environment where women are focused on their tasks and possibly attending a meeting or conference.
+
+Transcription:
+Yes yes now we hear it and we see it we also see it we also see the video well thanks Sorry but there were system preferences to activate well then I ask your consent for the broadcast of the hearing on the web TV of the Chamber of Deputies
+
+##[100000 - 120000]:
+Description:
+The image depicts a courtroom scene with a woman sitting at a long table, wearing a black dress and necklace. She appears to be a judge or a lawyer, since she is sitting in a chair at the table. Another woman is also present in the scene, sitting on a nearby chair.
+
+The room is furnished with several chairs, some of which are arranged around the table. There are also two laptops on the table, likely used for presenting evidence or conducting research. A cell phone can also be seen on the table.
+
+In the background is a TV mounted on the wall, which could be used to display relevant information during proceedings. The general atmosphere of the scene suggests a formal and professional environment, probably a courtroom or a law firm.
+
+Transcription:
+well then, I'll give you the floor. To carry out the intervention, reminding him of the 5 minute timing, please, you can start. Good morning. So, thanks for the invitation and I'm
+
+##[120000 - 140000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and tie. It appears that he is looking at the camera, perhaps for a portrait or photo. The man is surrounded by various objects, including a collection of keys and a handbag placed nearby.
+
+In the background there is a poster on the wall, which contributes to the overall composition of the scene. The man's clothing and the presence of his keys and purse suggest that he may be in a professional or formal setting, perhaps while he was preparing for an event or meeting.
+
+Transcription:
+bomba is a researcher I miss computer interaction at the University of Bolzano and founder of sineglossa which a research center on art and artificial intelligence is responsible for the National Academy Ale on general for artists and starts from the Italian of you Digital Deal which is the most important European cultural project on artificial intelligence
+
+##[140000 - 160000]:
+Description:
+The image shows a bald man wearing a suit and tie, standing in front of a wall. He seems to have a funny face, perhaps with his mouth open, as if he was trying to imitate a bird. The man is wearing a black shirt under his jacket and is also wearing a tie.
+
+In the background there is a clock hanging on the wall and a book can be seen placed nearby. The scene seems to be set in a casual or informal environment, as the man is dressed in a jacket and tie but he is making a humorous gesture.
+
+Transcription:
+I would like to take the opportunity of this discussion with the Copyright Commission to put forward an operational proposal that goes beyond the logic of royalties and the negotiations with the multinationals that own foundations at the Model as open-air and half systemic investments for artistic projects that
+
+##[160000 - 180000]:
+Description:
+The image shows a bald man with a beard and moustache, wearing a suit and a black shirt, sitting in a room. He is smiling and appears to be posing for the camera. The man is wearing a tie, which adds a formal touch to his outfit.
+
+In the background there is a green poster on the wall and you can see a clock hanging nearby. The room also has a window, which allows natural light to enter the space. The overall atmosphere of the scene appears to be casual and relaxed, with the man appearing content and comfortable with him.
+
+Transcription:
+on their artificial intelligence models producing positive social impacts, the Morese bill proposal is certainly necessary to guarantee forms of protection for authors in this moment of transition transformation in which artificial intelligence Big Tech could have acquired as we know in
+
+##[180000 - 200000]:
+Description:
+The image shows a bald man wearing a suit and tie, sitting in a room. He appears to be a businessman or professional, perhaps engaged in a meeting or conference. The man looks directly at the camera, giving a sense of involvement and concentration.
+
+The room has some objects in the background, including a clock on the wall and a book placed nearby. There is also a chair visible in the room, suggesting that the man may be in a formal setting or office. The overall atmosphere of the image conveys a sense of professionalism and seriousness.
+
+Transcription:
+legal data to train their machines as some trials underway in the United States will eventually demonstrate the topic would require an in-depth debate On the way in which these companies have scraped the Web and how these actions can be limited but it is inevitable to think that they are trying to dam the sea with a rock
+
+##[200000 - 220000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and a black shirt. He appears to be in a thoughtful or serious mood, with his mouth open as if he were talking or thinking. The man is positioned in front of a wall on which a poster or painting is hanging. The overall atmosphere of the scene suggests a professional or formal environment.
+
+Transcription:
+and that the preferable option is to find an agreement to involve authors in this revolution in an active and remunerated way. On the other hand, there are already DJI companies that offer products specifically intended for artists such as Adobe which have already adopted policies that they predict
+
+##[220000 - 240000]:
+Description:
+In the image, a bald man is sitting in a chair, wearing a suit and a black shirt. He appears to be in a serious and thoughtful mood, perhaps posing for a photo. The man is wearing a tie, which adds to his formal attire.
+
+The setting appears to be indoors, with a clock visible in the background. There is also a book placed nearby, perhaps indicating that the man is busy reading or studying. The overall atmosphere of the scene suggests a professional or intellectual environment.
+
+Transcription:
+for the use of their works in the training of artificial intelligence royalties which in any case will produce little revenue for the vast majority of artists who are the backbone of the national and European creative fabric. I therefore believe it is equally and perhaps even more urgent that the legislator to starting from the important role that this plays
+
+##[240000 - 260000]:
+Description:
+The image shows a bald man sitting in a room, wearing a suit and tie. He appears to be in a thoughtful or serious mood. The man is positioned in the center of the scene, with the suit covering most of his body.
+
+The room has some decorative items, including a clock hanging on the wall above the man. There is also a vase nearby that adds a touch of elegance to the space. A book can be seen on a surface near the man, perhaps indicating that he is busy reading or studying.
+
+Transcription:
+take this opportunity to identify a long-term strategy on how to govern these changes in the production of content in co-creation with generative artificial intelligence and identify new ways of rewarding the work of artists fundamental to our nation. This strategy should include
+
+##[260000 - 280000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and tie. He appears to be in a relaxed position, perhaps posing for a photo. The man is surrounded by various objects, including a potted plant and a clock on the wall. There is also a book placed nearby, suggesting that he may be busy reading or studying. The scene conveys a sense of professionalism and sophistication, with the man dressed in formal clothing and surrounded by objects that indicate his interest in knowledge and learning.
+
+Transcription:
+that overcoming the idea of ​​copyright as we have understood it up to now, reminding us that it is not a necessary condition for cultural production but only one of the many possible forms of support for creation which usually has an advantage the great authors at the expense of the small ehm ehm
+
+##[280000 - 300000]:
+Description:
+The image shows a bald man with a beard and goatee, wearing a suit and a black shirt. He is sitting in a chair, possibly in the living room or similar indoor environment. It appears that the man is speaking or expressing his thoughts, as he grimaces as he speaks.
+
+In the background there is a green poster on the wall, which adds a pop of color to the scene. The man's clothing and facial expression suggest that he may be engaged in a serious or thoughtful conversation.
+
+Transcription:
+and therefore The rethinking of the status of these authors With the advent of artificial intelligence offers us the possibility of directing the development of the national cultural sector in a more ambitious way in line with the European strategy, a regulatory framework based on the earnings of artists on copyright strengthens the identification of contents
+
+##[300000 - 320000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and a black shirt. He is wearing a tie, which adds a formal touch to his attire. The man appears to be engaged in conversation, perhaps while he is giving a speech or discussing a topic.
+
+In the background is a wall with a poster on it, which adds some visual interest to the scene. The man is the focus of the image and his clothing and posture suggest that he is a professional or an important figure in the context of the conversation.
+
+Transcription:
+cultural as market objects this age of culture is distant from the priorities identified by the European agenda for culture of the commission developed by the European Commission and whose priorities are precisely three that I will quickly summarize exploit the potential of Culture and cultural diversity to social cohesion
+
+##[320000 - 340000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and a black shirt. He appears to be engaged in a conversation or perhaps giving a speech. The man is positioned in the center of the scene, with his suit and shirt covering most of his body.
+
+In the background there is a wall with a green sign and a painting hanging on it. There is also a clock on the wall, visible above the man's head. The overall setting suggests a formal or professional environment, with the man as the focal point of the scene.
+
+Transcription:
+of participation supporting job creation and growth in the cultural and creative sector by promoting arts and culture in education and encouraging innovation strengthening international cultural relations to promote sustainable development and peace it is a vision of culture that serves to create welfare
+
+##[340000 - 360000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a black shirt and a blue jacket. He appears to be in a thoughtful or contemplative state, perhaps deep in thought. The man is positioned in front of a wall on which there is a green sign. The overall scene suggests a casual, relaxed atmosphere, with the man perhaps taking a break or reflecting on something.
+
+Transcription:
+strengthen the European positioning of values ​​and democracy to rethink our communities and to make us economically competitive a vision that considers artistic works as agents of social change of citizenship rather than as simple market objects companies such as openai and Google have already launched col to achieve
+
+##[360000 - 380000]:
+Description:
+The image shows a bald man wearing a blue suit and black shirt, sitting in a room. He appears to be speaking or expressing his thoughts, possibly in a serious and thoughtful manner. The man is wearing a tie, which adds a formal touch to his outfit.
+
+In the background is a green sign with white writing, which could be a poster or a piece of art. The room also contains a chair, suggesting that the man may be in a living room or similar interior setting.
+
+Transcription:
+projects that invite artists to use their devices to produce positive impacts on society, these figures, however, are the figures they have invested are totally inadequate. At the moment the proposal is therefore that these three companies be encouraged to reinvest a percentage of the revenues coming from the exploitation of the knowledge
+
+##[380000 - 400000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and a black shirt. It appears that he is speaking or presenting something, perhaps in a professional setting. The man is wearing a tie, which adds to his formal attire.
+
+In the background there is a clock on the wall and you can see a bag placed nearby. Additionally, there is a potted plant in the room, which adds a touch of greenery to the space. The overall scene suggests a well-dressed individual engaged in a conversation or presentation.
+
+Transcription:
+to produce new knowledge by supporting artistic creation upstream and not downstream, a substantial private investment that increases public resources for Italian cultural policies for the benefit of authors who involve people in understanding how artificial intelligence tools work
+
+##[400000 - 420000]:
+Description:
+The image shows a bald man with a beard, wearing a black shirt and jacket. He is sitting on a chair, looking at the camera with a smile on his face. The man appears to be posing for a photo, perhaps for a magazine or professional portrait.
+
+In the background there is a dining table on which a bowl is placed. The scene appears to be set in an informal but professional environment, with the man dressed in work clothes and the presence of the dining table suggesting a relaxed atmosphere.
+
+Transcription:
+through interaction with art to develop devices that are closer to human beings, more ethical and more transparent, and artists can offer a great contribution to this. There are several examples of this nature, from neighborhood artificial intelligence to others that help citizens to understand how to navigate among the fakes
+
+##[420000 - 440000]:
+Description:
+The image shows a bald man sitting in a chair, wearing a suit and a black shirt. He appears to be in a relaxed and informal position, perhaps in a living room or similar indoor setting. The man looks directly at the camera, giving the impression of being aware of being photographed.
+
+In the background there is a potted plant, which adds a touch of green to the scene. Additionally, there is a clock on the wall, which can be used to keep track of time or simply as a decorative element. The overall atmosphere of the image is that of a man dressed in formal clothes, perhaps taking a break or enjoying a moment of leisure.
+
+Transcription:
+you have happy examples of collaborations between artists, institutions, citizens and companies, this direction, in addition to offering artists new sources of revenue, brings humanism back to the center of the debate on the future of collaboration with artificial intelligence to avoid suffering them rather than controlling them
+
+##[440000 - 460000]:
+Description:
+The image shows a bald man wearing a black shirt and a blue jacket, sitting in a room. He appears to be engaged in a conversation, perhaps he is giving a speech or participating in a discussion. The man is positioned in the center of the scene, with a chair visible behind him.
+
+The room has some decorative elements, including a clock on the wall and a potted plant nearby. There is also a book placed on a surface near the man, suggesting he may be referring to it during his speech or discussion. The overall atmosphere of the scene is professional and focused, with the man appearing to be the main subject of the image.
+
+Transcription:
+it is a formula of technological-artistic collaboration of which Italy has been a healthy bearer since the Renaissance in which thanks to the convergence of knowledge the results of beauty and innovation were achieved and we are still talking about it after 500 years and it is the honor of this commission to redesign the strategies of cultural development
+
+##[460000 - 480000]:
+Description:
+The image shows a bald man, wearing a suit and a black shirt. He is sitting, perhaps in a chair, and appears to be speaking or expressing his thoughts. The man is surrounded by various objects, including a clock on the wall, a potted plant and a book. The scene appears to take place in a room, perhaps a living room or an office. The man's clothing and the presence of the clock and potted plant suggest a professional or formal environment.
+
+Transcription:
+in the face of this ongoing revolution that are benchmarks for other European states and that go beyond a nineteenth-century and Anglo-Saxon conception of culture, it is necessary to deal with the great technological players on European specificities by playing on their own field and creating a constructive and far-sighted dialogue rather than suffering
+
+##[480000 - 500000]:
+Description:
+The scene takes place in a room with a long wooden table, where two women are sitting at the head of the table. They appear to be engaged in a discussion or meeting, as they are surrounded by objects of various kinds.
+
+There are multiple chairs arranged around the table, some positioned closer to the women and others further away. A laptop is placed on the table, probably for reference or presentation purposes. A cell phone can also be seen on the table, possibly for communicating or taking notes.
+
+In addition to the women and the table, there are several bottles scattered around the room, which could be used for drinks or other purposes during the meeting. A TV is mounted on the wall in the background and in the room you can see a person perhaps observing the meeting or waiting their turn to speak.
+
+Transcription:
+decisions by trying to stem the consequences. Thank you very much. I also thank you for staying on time and in any case. Here it is now there are no interventions that are not connected to us so we will send your intervention to me
+

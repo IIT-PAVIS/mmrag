@@ -1,0 +1,79 @@
+/* style.css */
+body.dark-theme {
+    background-color: #333;
+    color: #fff;
+}
+
+body.light-theme {
+    background-color: #fff;
+    color: #000;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates a 3-column layout */
+    gap: 10px; /* Space between grid items */
+}
+
+.image-grid a {
+    display: block;
+    text-align: center; /* Center-aligns the content of the anchor tag */
+}
+
+.image-grid img {
+    width: 100%; /* Makes the image fill the container */
+    height: auto; /* Keeps the image aspect ratio */
+    transition: transform 0.2s; /* Adds a slight zoom effect on hover */
+}
+
+.image-grid img:hover {
+    transform: scale(1.05); /* Zoom effect on hover */
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center; /* This ensures that the items are vertically centered in the container */
+    justify-content: space-between; /* This spreads out the items to use the available space */
+    padding: 10px; /* Adds some spacing inside the header container */
+}
+
+.theme-switcher, #google_translate_element, .language-selector {
+    margin: 0 10px; /* Adds some margin to the left and right of each item for spacing */
+}
+
+/* Optionally, adjust the select and button size to make them align better visually */
+#languageSelect, .theme-switcher button {
+    padding: 5px 10px;
+    font-size: 16px; /* Adjusts the font size for better readability */
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #007bff; /* Blue color for the button background */
+    color: #fff; /* White color for the button text */
+    border: none; /* Removes the border around the button */
+    cursor: pointer; /* Changes the cursor to a pointer on hover */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+}
+
+/* Optionally, adjust the select size to make it align better visually similar to button */
+select {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #fff; /* White color for the select background */
+    color: #000; /* Black color for the select text */
+    border: 1px solid #ccc; /* Adds a light gray border around the select */
+}
+

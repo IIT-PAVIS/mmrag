@@ -1,0 +1,26 @@
+#Social distancing ecosystem
+#
+
+version: '2.3'
+
+services:
+
+  # Apache and php with https and password protection
+  php-apache:
+    image: webdevops/php-apache:7.2
+    container_name: parliament
+    working_dir: /app
+    volumes:
+      - ./web_application:/app
+      - ./configurations/apache2/vhost.conf:/opt/docker/etc/httpd/vhost.conf
+      - ./configurations/apache2/htpasswd:/opt/docker/etc/httpd/htpasswd
+    ports:
+      - 6700:443
+    environment:
+      PHP_MEMORY_LIMIT: 521M
+      PHP_MAX_EXECUTION_TIME: 300
+    restart: always
+
+volumes:
+  portainer_data:
+
