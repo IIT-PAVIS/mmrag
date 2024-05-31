@@ -6,6 +6,7 @@ This project can be switched between openai and ollama models. Ollama is the bes
 
 ![image](./images/schema.png)
 
+
 ## Project Description:
 
 - Questions can be in natural language and the LLM will be able to answer to them on whole database
